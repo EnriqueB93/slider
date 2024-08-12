@@ -64,8 +64,10 @@ header a {
 
 .contaner .list .list-items .content .description {
     font-size: 1.3em;
-
+    text-align: left;
+    width: 700px;
 }
+
 
 .contaner .list .list-items .button {
     margin-top: 20px;
