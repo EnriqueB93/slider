@@ -13,7 +13,10 @@
 </ul>
 
 <img src="https://github.com/EnriqueB93/slider/blob/main/aseeds/redme.png?raw=true">
-<img src="https://github.com/EnriqueB93/slider/blob/main/aseeds/redme2.png?raw=true" align=center>
+
+<p align="center">
+ <img src="https://github.com/EnriqueB93/slider/blob/main/aseeds/redme2.png?raw=true">
+</p>
 
 <a href="https://slider-devclub.netlify.app">Link</a>
 
